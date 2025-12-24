@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom CSS (keep it below Tailwind) */
+.service-premium-image {
+    width: 100%;
+    max-height: 520px;
+    object-fit: contain;
+
+    /* Premium border */
+    border-radius: 18px;
+    border: 3px solid rgba(212, 175, 55, 0.55); /* soft gold */
+
+    /* Luxury shadow */
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.15),
+        0 4px 10px rgba(212, 175, 55, 0.25);
+
+    /* Gloss effect */
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0.7),
+        rgba(245, 245, 245, 0.9)
+    );
+
+    padding: 10px;
+    transition: all 0.35s ease;
+}
+
+/* Hover polish */
+.service-premium-image:hover {
+    transform: scale(1.02);
+    box-shadow:
+        0 20px 40px rgba(0, 0, 0, 0.22),
+        0 8px 20px rgba(212, 175, 55, 0.45);
+}
