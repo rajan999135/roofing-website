@@ -11,7 +11,7 @@ A production-ready Laravel website built for a UK-based client to help grow a sm
 ## Screenshots
 
 ### Home Page
-![Home Hero](public/screenshots/home-hero.png)
+![Home Hero](home-hero.png)
 ![Home Middle](public/screenshots/home-middle.png)
 ![Home Footer](public/screenshots/home-footer.png)
 
