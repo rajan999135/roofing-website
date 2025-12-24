@@ -26,7 +26,7 @@ A production-ready Laravel website built for a UK-based client to help grow a sm
 ![Reviews](public/screenshots/reviews.png)
 
 ### Authentication
-![Login](public/screenshots/Login page.png)
+![Login](public/screenshots/Loginpage.png)
 ![Signup](public/screenshots/signup.png)
 
 ### Contact & Quote
