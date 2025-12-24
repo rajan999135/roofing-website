@@ -1,20 +1,37 @@
 # Five Rivers Ltd — Home Remodeling & Tiling (Laravel)
 
-**Live Website:** https://YOUR-LIVE-DOMAIN.com  
+**Live Website:** https://www.fiiveriversltd.co.uk/contact
 **GitHub Repo:** https://github.com/rajan999135/roofing-website
 
-A production-ready Laravel website for a London-based renovation company. Includes a modern marketing site, project gallery, customer reviews, and an admin panel to manage content.
+A production-ready Laravel website built for a UK-based client to help grow a small renovation business online. The platform includes a modern marketing site, project gallery, customer reviews, and an admin panel for managing content.
+
 
 ---
 
 ## Screenshots
 
-> Add your screenshots in: `public/screenshots/` and update the paths below.
+### Home Page
+![Home Hero](public/screenshots/home-hero.png)
+![Home Middle](public/screenshots/home-middle.png)
+![Home Footer](public/screenshots/home-footer.png)
 
-![Home](public/screenshots/home.png)
-![Recent Projects](public/screenshots/projects.png)
+### Services
+![Services](public/screenshots/services.png)
+
+### Projects
+![Projects](public/screenshots/projects.png)
+
+### Reviews
 ![Reviews](public/screenshots/reviews.png)
+
+### Authentication
+![Login](public/screenshots/login.png)
+![Signup](public/screenshots/signup.png)
+
+### Contact & Quote
 ![Contact](public/screenshots/contact.png)
+![Quote](public/screenshots/quote.png)
+
 
 ---
 
