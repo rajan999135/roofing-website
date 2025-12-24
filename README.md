@@ -14,6 +14,7 @@ A production-ready Laravel website built for a UK-based client to help grow a sm
 ![Home Hero](home-hero.png)
 ![Home Middle](public/screenshots/home-middle.png)
 ![Home Footer](public/screenshots/home-footer.png)
+![Home Footer](public/screenshots/home-footer.png)
 
 ### Services
 ![Services](public/screenshots/services.png)
@@ -25,7 +26,7 @@ A production-ready Laravel website built for a UK-based client to help grow a sm
 ![Reviews](public/screenshots/reviews.png)
 
 ### Authentication
-![Login](public/screenshots/login.png)
+![Login](public/screenshots/Login page.png)
 ![Signup](public/screenshots/signup.png)
 
 ### Contact & Quote
